@@ -1,0 +1,10 @@
+分析：
+/detail/:id
+/login
+/home/movie
+/home/movie/hot
+/home/movie/ing
+/home/cinema
+/home/my
+
+

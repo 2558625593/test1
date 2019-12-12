@@ -1,0 +1,150 @@
+[
+    {
+        "img":"https://public.danke.com.cn/public-20180506-FsKRTgz7-NpWUScupTjCGLCIubrZ?imageView2/1/w/380/h/285",
+        "title":"顺义 双兴北区 5室2厅",
+        "price":1625,
+        "area":13,
+        "subway":true,
+        "subwayno":15,
+        "subwaydistance":1250,
+        "type":2,
+        "homenum":1,
+        "id":0
+    },
+    {
+        "img":"https://public.danke.com.cn/public-20180717-Ft9r4bORLIPJ93R55N45MDTP3pJq?imageView2/1/w/380/h/285",
+        "title":"新宫 合顺家园 4室1厅",
+        "price":1825,
+        "area":13,
+        "subway":true,
+        "subwayno":15,
+        "subwaydistance":700,
+        "type":0,
+        "homenum":3,
+        "id":1
+    },
+    {
+        "img":"https://public.danke.com.cn/public-20181022-FpPPgDBdfQfweTE2_Q0CD6YoXEeO?imageView2/1/w/380/h/285",
+        "title":"东坝中街 恒大华府 4室1厅",
+        "price":1825,
+        "area":13,
+        "subway":true,
+        "subwayno":14,
+        "subwaydistance":3470,
+        "type":0,
+        "homenum":4,
+        "id":2
+    },
+    {
+        "img":"https://public.danke.com.cn/public-20180506-FsKRTgz7-NpWUScupTjCGLCIubrZ?imageView2/1/w/380/h/285",
+        "title":"石门 西辛南区 2室1厅",
+        "price":1425,
+        "area":6,
+        "subway":"高家园站",
+        "subwayno":15,
+        "subwaydistance":450,
+        "type":0,
+        "homenum":1,
+        "id":3
+    },
+    {
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"东直门 港湾国际 1室1厅",
+        "price":1425,
+        "area":6,
+        "subway":"东直门",
+        "subwayno":[2,13,"机场线"],
+        "subwaydistance":1000,
+        "type":2,
+        "homenum":1,
+        "id":4
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南 蓝色家园 1室1厅",
+        "price":9800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":12,
+        "subwaydistance":900,
+        "type":1,
+        "homenum":1,
+        "id":5
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南1 蓝色家园 1室1厅",
+        "price":9800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":12,
+        "subwaydistance":900,
+        "type":1,
+        "homenum":1,
+        "id":6
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南2 蓝色家园 1室1厅",
+        "price":9800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":12,
+        "subwaydistance":900,
+        "type":1,
+        "homenum":1,
+        "id":7
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南3 蓝色家园 1室1厅",
+        "price":1800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":2,
+        "subwaydistance":1900,
+        "type":0,
+        "homenum":3,
+        "id":8
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南2 蓝色家园 1室1厅",
+        "price":9800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":12,
+        "subwaydistance":900,
+        "type":1,
+        "homenum":1,
+        "id":7
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南3 蓝色家园 1室1厅",
+        "price":1800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":2,
+        "subwaydistance":1900,
+        "type":0,
+        "homenum":3,
+        "id":8
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南2 蓝色家园 1室1厅",
+        "price":9800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":12,
+        "subwaydistance":900,
+        "type":1,
+        "homenum":1,
+        "id":7
+    },{
+        "img":"https://public.danke.com.cn/public-20190604-Fr-Eedn4luupot8P534PE-23nG7B?imageView2/1/w/380/h/285",
+        "title":"望京南3 蓝色家园 1室1厅",
+        "price":1800,
+        "area":71,
+        "subway":"高家园站",
+        "subwayno":2,
+        "subwaydistance":1900,
+        "type":0,
+        "homenum":3,
+        "id":8
+    }
+]

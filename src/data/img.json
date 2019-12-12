@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "img": "1-bev.jpg"
+    },
+    {
+        "id": 1,
+        "img": "2-food.jpg"
+    },
+    {
+        "id": 2,
+        "img": "3-msr.jpg"
+    },
+    {
+        "id": 3,
+        "img": "4-merch.jpg"
+    },
+    {
+        "id": 4,
+        "img": "5-coffee.jpg"
+    }
+]

@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+body,html,#root,.app{
+  width: 100%;
+  height: 100%;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+}
+.myheader{
+  width: 100%;
+  height: 40px;
+  background: cadetblue;
+  line-height: 40px;
+  text-align: center;
+}
+.main{
+  flex: 1;
+  overflow: auto;
+}
+.myfooter{
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+.myfooter a{
+  text-decoration: none;
+  /* flex: 1; */
+  color: black;
+}
+.myfooter .active{
+  background: #ccc;
+  color: red;
+}
+.items{
+  width: 100%;
+  height: 40px;
+  display: flex;
+  line-height: 40px;
+}
+.items span{
+  flex: 1;
+  text-align: center;
+}
+.bar{
+  position: absolute;
+  width: 100%;
+  height:100%;
+  left:0;
+  top: 80px;
+  background: rgba(0,0,0,.3);
+  /* display: none; */
+}
+.ondia{
+  width: 100%;
+  background: white;
+}
+.item{
+  display: flex;
+  margin: 10px;
+  height: 100px;
+}
+.item img{
+  width: 100px;
+}
+.item .right{
+  margin-left:10px;
+}

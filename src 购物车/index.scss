@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.shop{
+    .item{
+        margin: 10px;
+    display: flex;
+    background: #eee;
+        img{
+            width: 100px;
+        }
+    }
+}
+.map,.container{
+    width: 100%;
+    height: 400px;
+}

@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+html,body,#root,.app,.layout{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.app{
+    flex-direction: column;
+}
+.header{
+    display: block;
+    height: 60px;
+    background: #3dbcc6;
+    position: relative;
+    z-index: 15;
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    line-height: 60px;
+}
+.layout{
+    flex-direction: column;
+    overflow: hidden;
+    .layout-main{
+        flex: 1;
+        overflow-y: auto;
+    }
+}
+.footer{
+    font-size: 18px;
+    height: 60px;
+    line-height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    a{
+    flex: 1;
+    text-align: center;
+    color: #000;
+    &.active{
+        // background: red;
+        color: #3dbcc6;
+    }
+    }
+}
+.bar{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    line-height: 40px;
+    background: #fff;
+    span{
+        flex: 1;
+        text-align: center;
+    }
+}
+.dialog{
+    position: absolute;
+    top: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.3);
+    .d-main{
+        background: #fff;
+    }
+}
+.item{
+    display: flex;
+    margin: 10px;
+    img{
+        width: 100px;
+    }
+    div{
+        margin-left: 10px;
+    }
+    span{
+        color: red;
+    }
+}
+.detail{
+    flex: 1;
+    overflow:auto ;
+    img{
+        width: 100%;
+    }
+}
+.lazy{
+    height: 300px;
+}

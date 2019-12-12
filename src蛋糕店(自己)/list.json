@@ -1,0 +1,30 @@
+[
+    {
+        "id":0,
+        "img":"../img/1.png",
+        "name":"幸福随心蛋糕礼盒",
+        "content":0,
+        "money":"186"
+    },
+    {
+        "id":1,
+        "img":"../img/3.png",
+        "name":"圣诞蛋糕礼盒",
+        "content":0,
+        "money":"192"
+    },
+    {
+        "id":2,
+        "img":"../img/2.jpeg",
+        "name":"幸福蛋糕礼盒",
+        "content":0,
+        "money":"156"
+    },
+    {
+        "id":3,
+        "img":"../img/1.png",
+        "name":"随心蛋糕礼盒",
+        "content":0,
+        "money":"176"
+    }
+]

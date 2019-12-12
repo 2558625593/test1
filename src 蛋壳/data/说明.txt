@@ -1,0 +1,12 @@
+数据说明
+{
+        "img":
+        "title":              //标题
+        "price":1625,
+        "area":13,            //面积（平米）
+        "subway":true,        // 近地铁
+        "subway-no":15,       // 地铁线
+        "subway-distance":1250,   //距离地跌（米）
+        "type":0               //整租 0  合租1 月租 2 不限 null
+        "homenum":1            //居室
+    }

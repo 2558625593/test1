@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    color: #000;
+    text-decoration: none   ;
+}
+html,body,#root{
+    width:100%;
+    height: 100%;
+    display: flex;
+}
+.meituan{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.home{
+    width: 100%;
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    /* background: red; */
+    display: flex;
+    justify-content: space-around;
+    line-height: 60px;
+    a{
+        text-align: center;
+        flex: 1;
+        &.active{
+            background: red;
+        }
+    }
+}
+.tab{
+    a{
+        text-decoration: none;
+        color: #000;
+        font-size: 20px;
+        &.active{
+            background: red;
+        }
+    }
+}
+.con{
+    display: flex;
+    height: 100%;
+}
+.left{
+    width: 80px;
+    height: 100%;
+    background: #eee;
+    span{
+        display: flex;
+        padding: 10px 0;
+        border-bottom: 1px solid #bfbbbb;
+    }
+}
+.right{
+    flex: 1;
+    overflow: auto;
+}
+.tab{
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    justify-content: space-around;
+    a{
+        flex: 1;
+        text-align: center;
+    }
+}
+.left {
+    span{
+        &.active{
+            background: red;
+        }
+    }
+}
+.item{
+    width: 100%;
+    img{
+        width: 100px;
+    }
+}
+.swiper-container{
+    width: 100%;
+    .swiper-wrapper{
+        img{
+            width: 100%;
+        }
+    }
+}
